@@ -1,0 +1,9 @@
+.Head{
+    display: flex;
+    justify-content: left;
+    font-weight: bolder;
+    font-size: x-large;
+    font-style: italic;
+    background-color: black;
+    color: green;
+}
